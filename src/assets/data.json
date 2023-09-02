@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "16/08/2023",
+        "title": "TECHY_ARPIT",
+        "description": "This is the sample react app to provide some technical services to the client.",
+        "url": "https://reactone-one-virid.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "19/08/2023",
+        "title": "VIDEO HUB BY ARPIT",
+        "description": "This is the sample react app which displays a video player with some pre installed nature videos and showcase the functionality of uploading video.",
+        "url": "https://react-video-app-seven-peach.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "23/08/2023",
+        "title": "XCrypto",
+        "description": "This is the crypto coins as well as crypto exchange showing react app.",
+        "url": "https://react-crypto-app-kappa-liard.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "26/08/2023",
+        "title": "SHOPPING CART",
+        "description": "This is the sample react app which shows some shopping items and provide the feature to add those items into shopping cart with their respective bills.",
+        "url": "https://shopping-cart-amber-two.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "02/09/2023",
+        "title": "PORTFOLIO",
+        "description": "This is the portfolio react app of ARPIT AGGARWAL.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
